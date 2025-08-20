@@ -35,6 +35,6 @@ My current focus is on agentic AI and cloud-native tool development as part of t
 ---
 
 ## 🌐 Let's Connect
-- 🌍 Portfolio: [srivaths-ravva.github.io/Portfolio](https://srivaths-ravva.github.io/Portfolio)  
+- 🌍 Portfolio: [srivaths-ravva.vercel.app](https://srivaths-ravva.vercel.app)  
 - 🔗 LinkedIn: [linkedin.com/in/srivaths-ravva](https://linkedin.com/in/srivaths-ravva)  
 - 📫 Email: srivaths.ravva@gmail.com
